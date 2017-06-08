@@ -6,7 +6,7 @@ Modularized, [composable](https://en.wikipedia.org/wiki/Composability#System_Des
 
 The aim of [superflycss](https://github.com/superflycss/superflycss) is to maximize designer and developer productivity, cross eco system utilization, and to minimize maintenance effort by providing:
 - [SuperflyCSS Component and Utility Naming Conventions](https://github.com/superflycss/superflycss/blob/master/naming-conventions.md) that provide predictability, clarity, transparency, simplicity, and consistency to the CSS markup and the corresponding end result.  
-- A la carte flexibility.  Use only the parts that you want to use.
+- A la carte flexibility.  Use only the parts that you want to use.-
 - A robust CSS foundation / base
 - Small focused CSS modules that are easily customizable, adhere to a [Module philosophy](https://github.com/substack/browserify-handbook#module-philosophy), and are free of [side effects](https://philipwalton.com/articles/side-effects-in-css/) and [naming collisions](https://philipwalton.com/articles/side-effects-in-css/)
 - Dependency management for CSS modules and build tools
@@ -67,4 +67,4 @@ gulp build:css
 
 ### Foundation
 
-All superflycss modules assume the utilization of the [superflycss/foundation](https://github.com/superflycss/foundation) module in order to keep code [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself).  Thus in order to guarantee consistent results always include the [superfly-css-foundation](https://github.com/superfly-css/superfly-css-foundation) module import first.
+All superflycss modules assume the utilization of the [superflycss/foundation](https://github.com/superflycss/foundation) module in order to keep code [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself).  Thus in order to guarantee consistent results always include the [superflycss/foundation](https://github.com/superflycss/foundation) module import first.
