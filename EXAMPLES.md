@@ -2,7 +2,7 @@
 
 ## Override component CSS variables
 
-The [Site component]() has the following definition:
+The [Site component](https://github.com/superflycss/component-site) has the following definition:
 ```css
 :root {
   --Site-min-width: 270px;
