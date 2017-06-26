@@ -8,10 +8,10 @@ Import order for CSS matters.  This is the correct way to do it:
 @import "@superflycss/component-header";
 ```
 
-If on the other hand you were to accidetally do this:
+On the other hand accidetally doing this:
 ``` css
 @import "@superflycss/component-header";
 @import "@superflycss/foundation";
 ```
 
-The `Header_link`, when applied to `<a class="Header_link">...</a>` elements not render the pseduo selectors events `:hover, :active, visited` since the styling of the `<a class="Header_link">...</a>` element would be overriden by the styling declaration of `<a>...</a>` element declared in [@superflycss/foundation](https://github.com/superflycss/foundation).
+Would result in the browser not rendering the pseduo selectors events `:hover, :active, visited` defined for the `Header_link` since the  since the styling of the `<a class="Header_link">...</a>` element would be overriden by the styling declaration for anchors (`<a>...</a>` elements) declared in [@superflycss/foundation](https://github.com/superflycss/foundation).
