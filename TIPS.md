@@ -1,6 +1,6 @@
 # Tips
 
-## Always import [@superflycss/foundation](https://github.com/superflycss/foundation) first
+### Always import [@superflycss/foundation](https://github.com/superflycss/foundation) first
 
 If you import it last some of the styles in 
 [@superflycss/foundation](https://github.com/superflycss/foundation) 
