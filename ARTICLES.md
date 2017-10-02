@@ -10,3 +10,4 @@ Superfly-CSS is inspired by design principles in and encapsulates recommended to
 - [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 - [BEM 101](https://css-tricks.com/bem-101/)
 - [Flexbox Best Kept Secret](https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.4u99aajik)
+- [Remember Selectors with Love Hate](https://css-tricks.com/remember-selectors-with-love-and-hate/)
