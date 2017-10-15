@@ -17,6 +17,7 @@ The aim of [superflycss](https://github.com/superflycss/superflycss) is to maxim
 - Well documented and tested code that incorporates design rationale
 - A standardized [project layout](https://github.com/superflycss/pli) for all project repositories
 - [Gulp](http://gulpjs.com) tasks providing workflow automation
+- Adherence to [semver guidelines](http://semver.org/) for update releases
 
 ## Installation
 
