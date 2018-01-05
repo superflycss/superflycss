@@ -8,7 +8,7 @@ The aim of [superflycss](https://github.com/superflycss/superflycss) is to maxim
 - [SuperflyCSS Component and Utility Naming Conventions](https://github.com/superflycss/superflycss/blob/master/naming-conventions.md) that provide predictability, clarity, transparency, simplicity, and consistency to the CSS markup and the corresponding end result.  
 - A la carte flexibility.  Use only the parts that you want to use.
 - A robust CSS foundation / base
-- Small focused CSS modules that are easily customizable, live in their own repository, are versioned, adhere to a [Module philosophy](https://github.com/substack/browserify-handbook#module-philosophy), and are free of [side effects](https://philipwalton.com/articles/side-effects-in-css/) and [naming collisions](https://philipwalton.com/articles/side-effects-in-css/)
+- Small focused CSS modules that are easily customizable, live in their own repository, are updated and versioned independently of other components or utilities, adhere to a [Module philosophy](https://github.com/substack/browserify-handbook#module-philosophy), and are free of [side effects](https://philipwalton.com/articles/side-effects-in-css/) and [naming collisions](https://philipwalton.com/articles/side-effects-in-css/)
 - Dependency management for CSS modules and build tools
 - Test cases clearly illustrating how to utilize the css module features and how to got about customization
 - The ability to incorporate future CSS specification features, such as variables, now using [PostCSS](https://github.com/postcss/postcss).
