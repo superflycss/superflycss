@@ -11,3 +11,4 @@ Superfly-CSS is inspired by design principles in and encapsulates recommended to
 - [BEM 101](https://css-tricks.com/bem-101/)
 - [Flexbox Best Kept Secret](https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.4u99aajik)
 - [Remember Selectors with Love Hate](https://css-tricks.com/remember-selectors-with-love-and-hate/)
+- [Modular CSS with React](https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e)
