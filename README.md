@@ -12,12 +12,13 @@ The aim of [superflycss](https://github.com/superflycss/superflycss) is to maxim
 - Dependency management for CSS modules and build tools
 - Test cases clearly illustrating how to utilize the css module features and how to got about customization
 - The ability to incorporate future CSS specification features, such as variables, now using [PostCSS](https://github.com/postcss/postcss).
-- Naming and structural conventions for CSS elements, components, utilities, and repositories
+- Naming and structural conventions for CSS elements, components, utilities, gulp tasks, and repositories
 - End to end Gulp based build pipeline examples
 - Well documented and tested code that incorporates design rationale
 - A standardized [project layout](https://github.com/superflycss/pli) for all project repositories
 - [Gulp](http://gulpjs.com) tasks providing workflow automation
 - Adherence to [semver guidelines](http://semver.org/) for update releases
+- RxJS style module imports
 
 ## Installation
 
