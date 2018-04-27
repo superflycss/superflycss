@@ -13,6 +13,7 @@
 .fs-Button_price {} /* Descendant */
 .fs-Button--default {} /* Modifier */
 .fs-Button--default.onDisabled {} /* Disabled state */
+.fs-Button--default.onActive {} /* Active state */
 ```
 ## Component Variable Names
 
