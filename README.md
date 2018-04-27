@@ -49,9 +49,10 @@ sfc n component-super
 To build, serve, and live reload the `component-super` project run:
 
 ```console
+cd component-super
 sfc s component-super
 ```
-
+[Browser-Sync](https://browsersync.io/) will servet the `target` directory, so navigate to http://localhost:3002/test/html/ to see the testing `index.html` file.
 
 ### Creating a Composite Build from CSS Modules
 
