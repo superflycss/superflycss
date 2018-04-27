@@ -87,4 +87,4 @@ sfc p
 
 ### Foundation
 
-All superflycss modules assume the utilization of the [superflycss/foundation](https://github.com/superflycss/foundation) module in order to keep code [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself).  Thus in order to guarantee consistent results always include the [superflycss/foundation](https://github.com/superflycss/foundation) module import first.
+All superflycss rendering assumes the utilization of the [superflycss/foundation](https://github.com/superflycss/foundation) module in order to keep code [DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself).  Thus in order to guarantee consistent results always include the [superflycss/foundation](https://github.com/superflycss/foundation) module import first.
