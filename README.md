@@ -73,7 +73,7 @@ Or use the abbreviated version:
 sfc bmc
 ```
 
-### Prepublishing Variales, Components, or Utilities
+### Prepublishing Variables, Components, or Utilities
 
 ```console
 sfc prepublish
