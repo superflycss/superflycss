@@ -12,60 +12,77 @@ The aim of [superflycss](https://github.com/superflycss/superflycss) is to maxim
 - Dependency management for CSS modules and build tools
 - Test cases clearly illustrating how to utilize the css module features and how to got about customization
 - The ability to incorporate future CSS specification features, such as variables, now using [PostCSS](https://github.com/postcss/postcss).
-- Naming and structural conventions for CSS elements, components, utilities, gulp tasks, and repositories
-- End to end Gulp based build pipeline examples
+- Naming and structural conventions for CSS elements, components, utilities, and repositories
+- End to end [superflycss/cli](https://github.com/superflycss/cli) live reload build examples
 - Well documented and tested code that incorporates design rationale
 - A standardized [project layout](https://github.com/superflycss/pli) for all project repositories
-- [Gulp](http://gulpjs.com) tasks providing workflow automation
+- Project initiation and live reload building and workflow automation provided by [superflycss/cli](https://github.com/superflycss/cli) 
 - Adherence to [semver guidelines](http://semver.org/) for update releases
-- RxJS style module imports
+- RxJS style module imports for all css sub modules
 
 ## Installation
 
-### CSS Modules
-
-The **superflycss** css modules can be installed via NPM.  For example install the color module as a `dev` dependency by running:
+### SuperflyCSS CLI (Command Line Interface)
 
 ```console
-npm install --save-dev @superflycss/variables-colors
+npm -i -g @superflycss/cli
+```
+### SuperflyCSS Variables, Components, and Utilities
+
+**SuperflyCSS** css modules can be installed via NPM.  For example install the color module by running:
+
+```console
+npm i @superflycss/variables-colors
+```  
+## Usage 
+
+### New Project Creation
+
+Create a project name `component-super`:
+
+```console
+sfc n component-super
 ```  
 
-### Gulp Build Tasks
+### CLI Live Reload
 
-The **superflycss** [Gulp](http://gulpjs.com) tasks can be installed via NPM.  To install the [`@superflycss/task-test`](https://github.com/superflycss/task-test) gulp task as a development dependency run:
+To build, serve, and live reload the `component-super` project run:
+
 ```console
-npm install --save-dev @superflycss/task-test
+sfc s component-super
 ```
 
-## Usage
 
-### CSS Modules
+### Creating a Composite Build from CSS Modules
 
 Import the module using `@import <module_name>`.  For example:
 ```css
 @import '@superflycss/variables-colors';
 ```
 
-Then customize by overriding CSS variables and/or extending the CSS.  Once your CSS file is complete, build by setting up your `gulpfile.js` and running:
+Then customize by overriding CSS variables and/or extending the CSS.  Once your CSS file is complete, build it using the CLI by running:
 
 ```console
-gulp build:css
+sfc build:main:css
 ```  
 
-### Build Tasks
+Or use the abbreviated version:
 
-Once the task is NPM installed require it in the `gulpfile.js` file like this:
-`require(<name_of_task>)`
-
-For example:
-```js
-require('@superflycss/task-build');
-```
-
-Your css can now be built by running:
 ```console
-gulp build:css
+sfc bmc
 ```
+
+### Prepublishing Variales, Components, or Utilities
+
+```console
+sfc prepublish
+```  
+
+Or use the abbreviated version:
+```console
+sfc p
+```
+
 
 ### Foundation
 
