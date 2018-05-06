@@ -19,7 +19,8 @@ The aim of [superflycss](https://github.com/superflycss/superflycss) is to maxim
 - Project initiation and live reload building and workflow automation provided by [superflycss/cli](https://github.com/superflycss/cli) 
 - Adherence to [semver guidelines](http://semver.org/) for update releases
 - RxJS style module imports for all css sub modules
-- Assets grouping:  Since each component, utility, or tool has its own repository, any javascript, image, or other resource that is used for functional or demo purposes is easy to find. 
+- Asset grouping.  Since each component, utility, or tool has its own repository, any javascript, image, or other resource that is used for functional or demo purposes is easy to find. 
+- Filtered communication and updates.  If you are only interested in watching for changes to the [Header Component](https://github.com/superflycss/component-header), click the github watch button for that repository only.
 
 ## Installation
 
