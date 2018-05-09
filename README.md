@@ -78,12 +78,12 @@ sfc bmc
 ### Prepublishing Variables, Components, or Utilities
 
 ```console
-sfc prepublish
+sfc dist
 ```  
 
 Or use the abbreviated version:
 ```console
-sfc p
+sfc d
 ```
 
 
