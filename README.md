@@ -54,7 +54,7 @@ To build, serve, and live reload the `component-super` project run:
 cd component-super
 sfc s component-super
 ```
-[Browser-Sync](https://browsersync.io/) will servet the `target` directory, so navigate to http://localhost:3002/test/html/ to see the testing `index.html` file.
+[Browser-Sync](https://browsersync.io/) is now serving the 'serve' directory.  The directories `src/main/css`, `src/test/css`, and `src/test/html` are watched, file changes are compiled to `serve` and the browser is refreshed automatically.  Happy live reloading!
 
 ### Creating a Composite Build from CSS Modules
 
