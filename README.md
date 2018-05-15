@@ -43,7 +43,7 @@ npm i @superflycss/variables-colors
 Create a project name `component-super`:
 
 ```console
-sfc n component-super
+sfc new -t c  component-super
 ```  
 
 ### CLI Live Reload
