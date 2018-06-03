@@ -22,3 +22,5 @@ Would result in the browser not rendering the pseduo selectors events `:hover, :
 
 If this is not included in the development temlate or site the media queries might not work as expected.  For more information see [Media Query Triggering when it should not?
 ](https://stackoverflow.com/questions/43150960/media-query-triggering-when-it-should-not).
+
+Also see this [Reponsive Web Design](https://www.html5rocks.com/en/mobile/responsivedesign/) article for more tips with respect to enabling / disabling user zooming, etc.
