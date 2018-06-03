@@ -14,6 +14,9 @@
 .fs-Button--default {} /* Modifier */
 .fs-Button--default.onDisabled {} /* Disabled state */
 .fs-Button--default.onActive {} /* Active state */
+
+.fs-Input.onValid {}
+.fs-Input.onInvalid {}
 ```
 ## Component Variable Names
 
