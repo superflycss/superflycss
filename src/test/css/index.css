@@ -1,0 +1,97 @@
+@import "@superflycss/foundation";
+@import "../../main/css/";
+@import "@superflycss/component-display";
+@import "@superflycss/component-test";
+@import "@superflycss/component-header";
+@import "@superflycss/utilities-layout";
+@import "@superflycss/variables-layout";
+@import "@superflycss/utilities-effects";
+@import "@superflycss/utilities-format";
+@import "@superflycss/utilities-fonts";
+@import "@superflycss/utilities-colors/material/";
+@import "@superflycss/utilities-colors/browser/";
+
+body {
+  counter-reset: test-counter;
+}
+
+/** Define a color palette */
+:root {
+  /** HEADER COMPONENT */
+  --Palette--Header-background-color: #F2F2F2;
+  --Palette--Header-border-color:  #1AC0BA;
+  --Palette--Header-text-color: #1AC0BA;
+  --Palette--Header_onHover-text-color: #e91eaa;
+  --Palette--Header_onHover-border-color: #e91eaa;
+
+  /** TESTHEADER COMPONENT*/
+  --Palette--TestHeader-background-color: #CDDC38;
+
+  /** TESTWHEN COMPONENT*/
+  --Palette--TestWhen-text-color: rgba(26, 192, 186, 0.64);
+  --Palette--TestThen-text-color: rgba(26, 192, 186, 0.64);
+
+  /** TESTMARKUP COMPONENT */
+  --Palette--TestMarkup-text-color: darkslategray;      
+}
+
+/** Header component overrides */
+:root {
+  --Header-background-color: var(--Palette--Header-background-color);
+  --Header_link-border-radius: 4px;
+  --Header_link-border-color: var(--Palette--Header-border-color);
+  --Header_link-text-color: var(--Palette--Header-text-color);
+
+  --Header_link_onHover-text-decoration: none;
+  --Header_link_onHover-text-color: var(--Palette--Header_onHover-text-color);
+  --Header_link_onHover-border-color: var(--Palette--Header_onHover-border-color);
+}
+
+/** TestHeader overrides */
+:root {
+  --TestHeader-background-color: var(--Palette--TestHeader-background-color);
+}
+
+/** TestWhen and TestThen overrides */
+:root {
+  --TestWhen-text-color: var(--Palette--TestWhen-text-color); 
+  --TestThen-text-color: var(--Palette--TestThen-text-color); 
+}
+
+/** TestMarkup overrides */
+:root {
+  --TestMarkup-text-color: var(--Palette--TestMarkup-text-color);
+}
+
+
+/** TestMarkup overrides */
+:root {
+  --TestCanvas-min-height: 5rem;
+  --TestCanvas-min-width: 20rem;
+}
+
+
+.hljs-tag {
+  padding: 0px;
+  white-space: normal;
+  color: inherit;
+  font-size: 1.1rem;
+  line-height: 2;
+  font-weight: 300;
+}
+
+/*
+.hljs-title {
+  padding: 0px;
+  white-space: normal;
+  color: orange;
+  font-size: 1.3em;
+  line-height: 2;
+  font-weight: 600;
+}
+*/
+
+::selection {
+    color: red;
+    background: yellow;
+}
