@@ -24,6 +24,10 @@ The aim of [superflycss](https://github.com/superflycss/superflycss) is to maxim
 - Asset grouping.  Since each component, utility, or tool has its own repository, any javascript, image, or other resource that is used for functional or demo purposes is easy to find. 
 - Filtered communication and updates.  If you are only interested in watching for changes to the [Header Component](https://github.com/superflycss/component-header), click the github watch button for that repository only.
 
+The framework will also help you become a better programmer 
+as the design of and utilization of components and utilities 
+mirrors how object oriented programmers think.
+
 ## Installation
 
 ### SuperflyCSS CLI (Command Line Interface)
