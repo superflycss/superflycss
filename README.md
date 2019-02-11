@@ -1,5 +1,7 @@
 # superflycss
 
+![Superfly](superfly.jpeg)
+
 Modularized, [composable](https://en.wikipedia.org/wiki/Composability#System_Design), and responsive CSS variables, components, utilities, typography, their foundation, and corresponding structural, build, and test methodology designed to be forward compatible with [custom elements / web components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements).
 
 This is the uber repository providing and overview and description of the the facets of the superflycss project.  All components and utilities reside in their own repository.  To see all repositories related to this project [click here](https://github.com/superflycss).
