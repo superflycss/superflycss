@@ -28,7 +28,7 @@ The aim of [superflycss](https://github.com/superflycss/superflycss) is to maxim
 
 The framework will also help you become a better programmer 
 as the design of and utilization of components and utilities 
-mirrors how object oriented programmers think.
+mirrors how object oriented and functional programmers think.
 
 ## Installation
 
