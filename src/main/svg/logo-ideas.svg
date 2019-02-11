@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -312,17 +312,6 @@
          style="stroke-width:0.26458326">Š</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5828948px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-305.4621"
-       y="327.25259"
-       id="text858-23-7-7"><tspan
-         sodipodi:role="line"
-         id="tspan856-7-3-8"
-         x="-305.4621"
-         y="327.25259"
-         style="stroke-width:0.26458332">s</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.39249706px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458326"
        x="-267.58655"
        y="318.29794"
@@ -356,17 +345,6 @@
          x="-291.45273"
          y="327.45282"
          style="stroke-width:0.26458326">Š</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5828948px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#cfd8dc;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-       x="-201.89664"
-       y="9.9738636"
-       id="text858-23-7-7-5"><tspan
-         sodipodi:role="line"
-         id="tspan856-7-3-8-4"
-         x="-201.89664"
-         y="9.9738636"
-         style="stroke-width:0.26458332;fill:#cfd8dc;">s</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.39249706px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#cfd8dc;fill-opacity:1;stroke:none;stroke-width:0.26458326;"
@@ -407,57 +385,45 @@
        id="rect1161-7"
        width="145.89879"
        height="121.87531"
-       x="-184.0744"
-       y="135.98213" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82744122px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#cfd8dc;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-166.80347"
-       y="206.09924"
-       id="text858-23-7-7-5-4"
-       transform="scale(1.0006944,0.99930605)"><tspan
-         sodipodi:role="line"
-         id="tspan856-7-3-8-4-5"
-         x="-166.80347"
-         y="206.09924"
-         style="fill:#cfd8dc;stroke-width:0.26458332">s</tspan></text>
+       x="-148.09155"
+       y="142.86121" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28779602px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#cfd8dc;fill-opacity:1;stroke:none;stroke-width:0.26458326"
-       x="-139.02815"
-       y="199.53252"
+       x="-103.06988"
+       y="206.41653"
        id="text814-35-0-1-5-6-4-7-2"
        inkscape:transform-center-x="-1.0351673"
        inkscape:transform-center-y="5.1686617"
-       transform="scale(1.0006944,0.99930605)"><tspan
+       transform="scale(1.0006944,0.99930608)"><tspan
          sodipodi:role="line"
          id="tspan812-62-9-8-9-1-5-6-5"
-         x="-139.02815"
-         y="199.53252"
+         x="-103.06988"
+         y="206.41653"
          style="fill:#cfd8dc;fill-opacity:1;stroke-width:0.26458326">©</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.48731613px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#cfd8dc;fill-opacity:1;stroke:none;stroke-width:0.26458326"
-       x="-128.32269"
-       y="202.12404"
+       x="-92.364273"
+       y="209.00806"
        id="text814-3-9-3-7-2-2-0-5-4"
-       transform="scale(1.0006944,0.99930605)"><tspan
+       transform="scale(1.0006944,0.99930608)"><tspan
          sodipodi:role="line"
          id="tspan812-6-1-6-9-2-9-3-6-7"
-         x="-128.32269"
-         y="202.12404"
+         x="-92.364273"
+         y="209.00806"
          style="fill:#cfd8dc;fill-opacity:1;stroke-width:0.26458326">§</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.72224045px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#cfd8dc;fill-opacity:1;stroke:none;stroke-width:0.26458326"
-       x="-156.52995"
-       y="206.24608"
+       x="-120.57191"
+       y="213.1301"
        id="text814-7-2-0-2-8-3-6-9-4"
-       transform="scale(1.0006944,0.99930605)"><tspan
+       transform="scale(1.0006944,0.99930608)"><tspan
          sodipodi:role="line"
          id="tspan812-5-7-6-0-9-1-1-3-4"
-         x="-156.52995"
-         y="206.24608"
+         x="-120.57191"
+         y="213.1301"
          style="fill:#cfd8dc;fill-opacity:1;stroke-width:0.26458326">Š</tspan></text>
   </g>
 </svg>
