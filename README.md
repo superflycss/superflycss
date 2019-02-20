@@ -6,6 +6,10 @@ Modularized, [composable](https://en.wikipedia.org/wiki/Composability#System_Des
 
 This is the uber repository providing and overview and description of the the facets of the superflycss project.  All components and utilities reside in their own repository.  To see all repositories related to this project [click here](https://github.com/superflycss).
 
+## Design Rationale Blog
+
+- [Mergin of Variable Repositories](https://medium.com/@ole.ersoy/superflycss-merging-of-variable-repositories-54cd2b88dff2)
+
 ## Objectives
 
 The aim of [superflycss](https://github.com/superflycss/superflycss) is to maximize designer and developer productivity, cross eco system utilization, and to minimize maintenance effort by providing:
