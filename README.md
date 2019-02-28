@@ -8,7 +8,7 @@ This is the uber repository providing and overview and description of the the fa
 
 ## Design Rationale Blog
 
-- [Mergin of Variable Repositories](https://medium.com/@ole.ersoy/superflycss-merging-of-variable-repositories-54cd2b88dff2)
+- [Merging of Variable Repositories](https://medium.com/@ole.ersoy/superflycss-merging-of-variable-repositories-54cd2b88dff2)
 
 ## Objectives
 
