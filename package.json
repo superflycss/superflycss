@@ -1,10 +1,10 @@
 {
   "name": "@superflycss/superflycss",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Superflycss project description and branding components",
   "main": "index.css",
   "scripts": {
-    "update": "ncu -a && npm i"
+    "update": "ncu -u && npm i"
   },
   "repository": {
     "type": "git",
@@ -39,7 +39,7 @@
     "@superflycss/utilities-format": "^1.1.1",
     "@superflycss/utilities-layout": "^4.0.3",
     "lite-server": "^2.4.0",
-    "npm-check-updates": "^2.14.2",
+    "npm-check-updates": "^3.1.9",
     "rxjs": "^6.2.2"
   }
 }
