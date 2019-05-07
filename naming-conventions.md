@@ -4,7 +4,7 @@
 
 ### Syntax
 
-`.[namespace-]ComponentName[_descendant|--modifier][.onState]`
+`.[namespace-]ComponentName[_descendant|--modifier][.onState]-[mdeia-type]`
 
 ### Examples
 
@@ -17,6 +17,9 @@
 
 .fs-Input.onValid {}
 .fs-Input.onInvalid {}
+
+// Responsive component
+.Display--fs500fw500-md /* Media type is md */
 ```
 ## Component Variable Names
 
