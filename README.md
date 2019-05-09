@@ -6,7 +6,14 @@ Modularized, [composable](https://en.wikipedia.org/wiki/Composability#System_Des
 
 This is the uber repository providing and overview and description of the the facets of the superflycss project.  All components and utilities reside in their own repository.  To see all repositories related to this project [click here](https://github.com/superflycss).
 
-## Design Rationale Blog
+
+## Blog
+
+### Builds
+
+- [Build Speed](https://medium.com/@ole.ersoy/speeding-up-superflycss-builds-2eb284bd300b)
+
+### Design Rationale
 
 - [Merging of Variable Repositories](https://medium.com/@ole.ersoy/superflycss-merging-of-variable-repositories-54cd2b88dff2)
 - [Container vs. Item](https://medium.com/@ole.ersoy/container-vs-item-423586b1b21e)

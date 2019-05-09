@@ -19,7 +19,8 @@
 .fs-Input.onInvalid {}
 
 // Responsive component
-.Display--fs500fw500-md /* Media type is md */
+.Display--fs500fw500-md {} /* Media type is md */
+.Display--fs500fw500-md.onActive {} /* Media type is md */
 ```
 ## Component Variable Names
 
