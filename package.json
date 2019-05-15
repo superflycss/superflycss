@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/superflycss",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Superflycss project description and branding components",
   "main": "index.css",
   "scripts": {
