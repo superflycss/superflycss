@@ -62,3 +62,15 @@ Media type values supported are:
   display: inline-flex !important;
 }
 ```
+
+#### Rule Exceptions / Number Separators
+
+Numbers are natural separators.  So for example instead of:
+```
+.Display--fs0-fw200-sm {
+```
+
+We do:
+```
+.Display--fs0fw200sm {
+```
