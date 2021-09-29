@@ -4,7 +4,7 @@
 
 ### Syntax
 
-`.[namespace-]ComponentName[_descendant|--modifier][.onState]-[mdeia-type]`
+`.[namespace-]ComponentName[_descendant|--modifier][.onState]-[media-type]`
 
 ### Examples
 
