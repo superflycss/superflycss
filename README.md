@@ -4,7 +4,7 @@
 
 Modularized, [composable](https://en.wikipedia.org/wiki/Composability#System_Design), and responsive CSS variables, components, utilities, typography, their foundation, and corresponding structural, build, and test methodology designed to be forward compatible with [custom elements / web components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements).
 
-This is the uber repository providing and overview and description of the the facets of the superflycss project.  All components and utilities reside in their own repository.  To see all repositories related to this project [click here](https://github.com/superflycss).
+This is the uber repository providing an overview and description of the the facets of the superflycss project.  All components and utilities reside in their own repository.  To see all repositories related to this project [click here](https://github.com/superflycss).
 
 
 ## Blog
@@ -26,7 +26,7 @@ The aim of [superflycss](https://github.com/superflycss/superflycss) is to maxim
 - A robust CSS foundation / base
 - Small focused CSS modules that can be installed with a package manager (NPM), are easily customizable, live in their own repository, are updated and [semver versioned](https://semver.org/) independently of other components or utilities, adhere to a [Module philosophy](https://github.com/substack/browserify-handbook#module-philosophy), and are free of [side effects](https://philipwalton.com/articles/side-effects-in-css/) and [naming collisions](https://philipwalton.com/articles/side-effects-in-css/).  Small modules are less intimidating for new users to get started with and allow developers to find and review code as quickly as possible.
 - Dependency management for CSS modules and build tools
-- Test cases clearly illustrating how to utilize the css module features and how to got about customization
+- Test cases clearly illustrating how to utilize the css module features and how to get about customization
 - The ability to incorporate future CSS specification features, such as variables, now using [PostCSS](https://github.com/postcss/postcss).
 - Naming and structural conventions for CSS elements, components, utilities, and repositories
 - End to end [superflycss/cli](https://github.com/superflycss/cli) live reload build examples
@@ -47,7 +47,7 @@ mirrors how object oriented and functional programmers think.
 ### SuperflyCSS CLI (Command Line Interface)
 
 ```console
-npm -i -g @superflycss/cli
+npm i -g @superflycss/cli
 ```
 ### SuperflyCSS Variables, Components, and Utilities
 
